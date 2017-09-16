@@ -16,5 +16,7 @@ There are many other overlay structures such as this that use content-based rout
 Other structures - including augmented rings - guarantee O(log n)-hop routing, and some claim to O(1)-hop routing at the cost of more maintenance. 
 
 ## More Details on Consistent Hashing
-http://michaelnielsen.org/blog/consistent-hashing/
-http://www.eecs.harvard.edu/~mema/courses/cs264/cs264.html
+
+*  http://michaelnielsen.org/blog/consistent-hashing/
+  
+*  http://www.eecs.harvard.edu/~mema/courses/cs264/cs264.html
